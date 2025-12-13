@@ -1,152 +1,40 @@
 {
   "version": 1,
-  "base_track": "Flyway",
+  "base_track": "Flyway（feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音レン）",
   "base_artist": "Leo/need",
-  "createdAt": "2025-12-01T08:40:32.364133Z",
+  "createdAt": "2025-12-13T17:32:41.312274Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "Flyway",
-      "artist": "Keep Shelly In Athens",
+      "title": "Flyway (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音レン)",
+      "artist": "Leo/need",
       "has_synced": true,
-      "path": "select/01_Flyway_Keep_Shelly_In_Athens.lrc"
+      "path": "select/01_Flyway_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音レン)_Leo_need.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "Flyway",
-      "artist": "Kero Kero Bonito",
+      "title": "Flyway (feat. 星乃一歌, 天馬咲希, 望月穂波, 日野森志歩 & 鏡音レン)",
+      "artist": "Leo/need",
       "has_synced": true,
-      "path": "select/02_Flyway_Kero_Kero_Bonito.lrc"
+      "path": "select/02_Flyway_(feat._星乃一歌,_天馬咲希,_望月穂波,_日野森志歩_&_鏡音レン)_Leo_need.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
       "title": "Flyway (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音レン)",
-      "artist": "Leo/need",
-      "has_synced": true,
-      "path": "select/03_Flyway_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音レン)_Leo_need.lrc"
-    },
-    {
-      "id": "lrclib_4",
-      "source": "lrclib",
-      "title": "Flyway",
-      "artist": "halyosy ft. 鏡音レン, KAITO",
-      "has_synced": true,
-      "path": "select/04_Flyway_halyosy_ft._鏡音レン,_KAITO.lrc"
-    },
-    {
-      "id": "lrclib_5",
-      "source": "lrclib",
-      "title": "Flyway",
-      "artist": "Leo/need",
-      "has_synced": true,
-      "path": "select/05_Flyway_Leo_need.lrc"
-    },
-    {
-      "id": "lrclib_6",
-      "source": "lrclib",
-      "title": "Flyway",
-      "artist": "halyosy",
-      "has_synced": false,
-      "path": "select/06_Flyway_halyosy.txt"
-    },
-    {
-      "id": "lrclib_7",
-      "source": "lrclib",
-      "title": "Flyway",
-      "artist": "Kero Kero Bonito",
-      "has_synced": true,
-      "path": "select/07_Flyway_Kero_Kero_Bonito.lrc"
-    },
-    {
-      "id": "lrclib_8",
-      "source": "lrclib",
-      "title": "Flyway",
-      "artist": "Leo/need feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音レン",
-      "has_synced": true,
-      "path": "select/08_Flyway_Leo_need_feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音レン.lrc"
-    },
-    {
-      "id": "lrclib_9",
-      "source": "lrclib",
-      "title": "Flyway (feat. 星乃一歌, 天馬咲希, 望月穂波, 日野森志歩 & 鏡音レン)",
-      "artist": "Leo/need",
-      "has_synced": true,
-      "path": "select/09_Flyway_(feat._星乃一歌,_天馬咲希,_望月穂波,_日野森志歩_&_鏡音レン)_Leo_need.lrc"
-    },
-    {
-      "id": "lrclib_10",
-      "source": "lrclib",
-      "title": "Flyway (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音レン)",
       "artist": "Leo",
       "has_synced": true,
-      "path": "select/10_Flyway_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音レン)_Leo.lrc"
-    },
-    {
-      "id": "lrclib_11",
-      "source": "lrclib",
-      "title": "Flyway",
-      "artist": "Leo/need feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&Kagamine Len",
-      "has_synced": true,
-      "path": "select/11_Flyway_Leo_need_feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&Kagamine_Len.lrc"
-    },
-    {
-      "id": "lrclib_12",
-      "source": "lrclib",
-      "title": "Kero Kero Bonito - Flyway",
-      "artist": "Kero Kero Bonito",
-      "has_synced": true,
-      "path": "select/12_Kero_Kero_Bonito_-_Flyway_Kero_Kero_Bonito.lrc"
-    },
-    {
-      "id": "lrclib_13",
-      "source": "lrclib",
-      "title": "Flyway (instrumental)",
-      "artist": "Leo／need",
-      "has_synced": true,
-      "path": "select/13_Flyway_(instrumental)_Leo_need.lrc"
+      "path": "select/03_Flyway_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音レン)_Leo.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "Fly Way",
-      "artist": "清春",
+      "title": "Flyway (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音レン)",
+      "artist": "Leo/need",
       "has_synced": false,
-      "path": "select/pl_01_Fly_Way_清春.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "Flyways",
-      "artist": "清春",
-      "has_synced": false,
-      "path": "select/pl_02_Flyways_清春.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "Flyways",
-      "artist": "清春",
-      "has_synced": false,
-      "path": "select/pl_03_Flyways_清春.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "Flyway",
-      "artist": "清春",
-      "has_synced": false,
-      "path": "select/pl_04_Flyway_清春.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "Flyway",
-      "artist": "清春",
-      "has_synced": false,
-      "path": "select/pl_05_Flyway_清春.txt"
+      "path": "select/pl_01_Flyway_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音レン)_Leo_need.txt"
     }
   ]
 }
